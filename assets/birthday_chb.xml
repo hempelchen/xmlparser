@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contacts>
+	<contact>
+		<name>陈红波</name>
+		<birthday>19790319</birthday>
+		<birthdayMoon>19790122</birthdayMoon>
+	</contact>
+	<contact>
+		<name>颜金花</name>
+		<birthday>19830607</birthday>
+		<birthdayMoon>19830426</birthdayMoon>
+	</contact>
+	<contact>
+		<name>爸</name>
+		<birthday></birthday>
+		<birthdayMoon>19521019</birthdayMoon>
+	</contact>
+</contacts>
